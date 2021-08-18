@@ -1,2 +1,2 @@
 # Tiaotiao-Lee
-I'm just a porter. 
+## Jump the ads in Apps.   
